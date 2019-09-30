@@ -6,7 +6,7 @@ const instructor = {
 } 
 ```
 
-### ToDo
+### To-Do:
 
 * ES6
 * TypeScript
